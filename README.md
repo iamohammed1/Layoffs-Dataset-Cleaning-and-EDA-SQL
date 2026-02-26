@@ -3,8 +3,8 @@
 Cleaned & standardized real-world tech layoffs dataset (2022–2024 era) using MySQL.  
 Popular beginner-to-intermediate SQL portfolio project inspired by Alex The Analyst.
 
-![Final Clean Table Example]()  
-*(Replace this placeholder with your own screenshot of SELECT * FROM layoffs_staging2 LIMIT 10 after cleaning)*
+![alt image](https://github.com/iamohammed1/Layoffs-Dataset-Cleaning-and-EDA-SQL/blob/155cedcf4a0ee4c36f69a4b36fb4905bd27ca92d/Screenshot%202026-02-27%20001615.png)
+![alt image](https://github.com/iamohammed1/Layoffs-Dataset-Cleaning-and-EDA-SQL/blob/34649b3b9044688cbfd1ffcc91c0ddffc7ff2229/Screenshot%202026-02-27%20001406.png)
 
 ## Project Objective
 Demonstrate core **data cleaning skills** in SQL:
