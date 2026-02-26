@@ -30,7 +30,7 @@ Demonstrate core **data cleaning skills** in SQL:
   - Date conversion: **STR_TO_DATE()**
   - ALTER TABLE, UPDATE, DELETE
 
-## Cleaning Steps Performed (Exact from your script)
+## Cleaning Steps Performed
 
 1. Created backup staging table → `layoffs_staging`
 2. Identified duplicates using **CTE** + **ROW_NUMBER()**  
